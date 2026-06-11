@@ -14,7 +14,7 @@
 - 📖Currently in the process of developing skill
 - 🏢My dream is to become rich.
 
-## 🛠️ Languages & Tools(learning)
+## 🛠️ Languages & Tools (learning)
 
 <h3 align="center">Programming Languages</h3>
 <p align="center">
