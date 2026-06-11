@@ -12,15 +12,6 @@
 - 📺Favorite anime one piece , shangri la frontier
 - 📖Currently in the process of developing skill
 
-
-## 📊 GitHub Stats & Trophies
-<p align="center">
-  <a href="https://github.com/zz-forever">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=zz-forever&cache_seconds=7200&layout=compact&theme=highcontrast&border_radius=10" alt="zz-forever's GitHub Stats" />
-  </a>
-</p>
-
-
 ## 🛠️ Languages & Tools
 
 <h3 align="center">Programming Languages</h3>
@@ -41,6 +32,3 @@
 <p align="center">
   <a href="mailto:nyxcnx@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Nachapon Pangjai's Email"/></a>
 </p>
-<p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="
-Support people creating profiles" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
-
