@@ -8,11 +8,11 @@
 </p>
 
 ## 📌 About Me
-- 🏫Study rmutl
-- 🎮Favorite game valorant
-- 📺Favorite anime one piece , shangri la frontier
-- 📖Currently in the process of developing skill
+- 📖Currently in the process of developing skill.
+- 🎮Favorite game valorant.
+- 📺Favorite anime one piece , shangri la frontier.
 - 🏢My dream is to become rich.
+- 🏫Study rmutl.
 
 ## 🛠️ Languages & Tools (learning)
 
