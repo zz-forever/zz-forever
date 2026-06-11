@@ -1,16 +1,46 @@
-## Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Nachapon%20Pangjai&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Rmutl%20%3A%20Software%20Enginear&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 
-<!--
-**zz-forever/zz-forever** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=zz-forever">
+    <img src="https://komarev.com/ghpvc/?username=zz-forever&label=Profile%20views&color=00FFFF&style=flat-square" alt="zz-forever's profile views" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+## 📌 About Me
+- 🏫Study rmutl
+- 🎮Favorite game valorant
+- 📺Favorite anime one piece , shangri la frontier
+- 📖Currently in the process of developing skill
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <a href="https://github.com/zz-forever">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=zz-forever&cache_seconds=7200&layout=compact&theme=highcontrast&border_radius=10" alt="zz-forever's GitHub Stats" />
+  </a>
+</p>
+
+
+## 🛠️ Languages & Tools
+
+<h3 align="center">Programming Languages</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />
+
+</p>
+
+<h3 align="center">Frontend</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />
+
+</p>
+
+## 🔗 Connect with Me
+<p align="center">
+  <a href="mailto:nyxcnx@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Nachapon Pangjai's Email"/></a>
+</p>
+
+<p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
+
