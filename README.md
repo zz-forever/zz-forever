@@ -12,6 +12,7 @@
 - 🎮Favorite game valorant
 - 📺Favorite anime one piece , shangri la frontier
 - 📖Currently in the process of developing skill
+- 🏢My dream is to become rich.
 
 ## 🛠️ Languages & Tools
 
